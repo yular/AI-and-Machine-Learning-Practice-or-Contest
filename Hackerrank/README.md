@@ -1,4 +1,6 @@
 # HackerRank AI and Machine Learning Problems Solution
+* Pacman DFS: [Problem](https://www.hackerrank.com/challenges/pacman-dfs);   [Code](https://github.com/yular/AI-and-Machine-Learning-Practice-or-Contest/blob/master/Hackerrank/hackerrank_pacman-dfs.cpp).
+* Pacman BFS: [Problem](https://www.hackerrank.com/challenges/pacman-bfs);   [Code](https://github.com/yular/AI-and-Machine-Learning-Practice-or-Contest/blob/master/Hackerrank/hackerrank_pacman-bfs.cpp).
 * Pacman A*: [Problem](https://www.hackerrank.com/challenges/pacman-astar);   [Code](https://github.com/yular/AI-and-Machine-Learning-Practice-or-Contest/blob/master/Hackerrank/hackerrank_pacman-astar.cpp).
 * Multiple Linear Regression: Predicting House Prices: [Problem](https://www.hackerrank.com/challenges/predicting-house-prices);   [Code](https://github.com/yular/AI-and-Machine-Learning-Practice-or-Contest/blob/master/Hackerrank/hackerrank_predicting-house-prices.cpp).
 * Polynomial Regression: Office Prices: [Problem](https://www.hackerrank.com/challenges/predicting-office-space-price);   [Code](https://github.com/yular/AI-and-Machine-Learning-Practice-or-Contest/blob/master/Hackerrank/hackerrank_predicting-office-space-price.cpp).
