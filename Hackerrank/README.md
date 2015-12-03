@@ -1,5 +1,5 @@
 # HackerRank AI and Machine Learning Problems Solution
-* [Problem](https://www.hackerrank.com/challenges/saveprincess2);    [Code](https://github.com/yular/AI-and-Machine-Learning-Practice-or-Contest/blob/master/Hackerrank/hackerrank_saveprincess2.cpp).
+* Bot saves princess - 2: [Problem](https://www.hackerrank.com/challenges/saveprincess2);    [Code](https://github.com/yular/AI-and-Machine-Learning-Practice-or-Contest/blob/master/Hackerrank/hackerrank_saveprincess2.cpp).
 * Pacman DFS: [Problem](https://www.hackerrank.com/challenges/pacman-dfs);   [Code](https://github.com/yular/AI-and-Machine-Learning-Practice-or-Contest/blob/master/Hackerrank/hackerrank_pacman-dfs.cpp).
 * Pacman BFS: [Problem](https://www.hackerrank.com/challenges/pacman-bfs);   [Code](https://github.com/yular/AI-and-Machine-Learning-Practice-or-Contest/blob/master/Hackerrank/hackerrank_pacman-bfs.cpp).
 * Pacman A*: [Problem](https://www.hackerrank.com/challenges/pacman-astar);   [Code](https://github.com/yular/AI-and-Machine-Learning-Practice-or-Contest/blob/master/Hackerrank/hackerrank_pacman-astar.cpp).
